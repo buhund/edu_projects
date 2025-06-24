@@ -1,0 +1,6 @@
+@igniteRestWebApi_HostAddress = http://localhost:5062
+
+GET {{igniteRestWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
